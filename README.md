@@ -1,6 +1,7 @@
 ### Hi there 👋 I am Chakit Arora 
 #### A Full Stack Web Developer
 
+!(https://pbs.twimg.com/profile_banners/443625845/1629698325/1500x500)
 
 ##### Technologies I've worked on -> 
 * -> Vue, Quasar
@@ -13,8 +14,11 @@
 * -> Docker
 
 
-I like to code and build applcations, but the thing I like the most is eating. Lol
-I like to travel, eat and drink! 
+I like to code and build applcations, but the thing I like the most is eating. Lol <br/>
+I like to travel, eat and drink! <br/>
+
+
+
 <!--
 **arorachakit/arorachakit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
