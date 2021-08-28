@@ -1,5 +1,20 @@
-### Hi there 👋
+### Hi there 👋 I am Chakit Arora 
+#### A Full Stack Web Developer
 
+
+##### Technologies I've worked on -> 
+1 -> Vue, Quasar
+2 -> Angular
+3 -> React
+4 -> Node js
+5 -> Flask
+6 -> FastAPI
+7 -> TailwindCSS
+8 -> Docker
+
+
+I like to code and build applcations, but the thing I like the most is eating. Lol
+I like to travel, eat and drink! 
 <!--
 **arorachakit/arorachakit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
