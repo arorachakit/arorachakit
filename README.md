@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Chakit Arora 
 #### A Full Stack Web Developer
 
-!(https://pbs.twimg.com/profile_banners/443625845/1629698325/1500x500)
+![Image](https://pbs.twimg.com/profile_banners/443625845/1629698325/1500x500)
 
 ##### Technologies I've worked on -> 
 * -> Vue, Quasar
