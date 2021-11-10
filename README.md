@@ -3,7 +3,7 @@
 
 
 
-##### Technologies I've worked on -> 
+##### Technologies I've worked with -> 
 * Vue, Quasar
 * Angular
 * React
