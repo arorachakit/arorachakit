@@ -1,4 +1,5 @@
-### Hi there 👋 I am Chakit
+### Hi there 👋 I am Chakit 
+#### I am a DevRel 🥑 at Stroyblok
 #### I am a Full Stack Web Developer
 
 
