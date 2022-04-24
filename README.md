@@ -10,7 +10,7 @@ Hey, I am a Full Stack Developer! I like being in the community. I like writing 
 * 🖥️  See my portfolio at [chakitarora.com](http://chakitarora.com)
 * ✉️  You can contact me at [arorachakit@gmail.com](mailto:arorachakit@gmail.com)
 * 🧠  I'm learning web everyday!
-* 🤝  I'm open to collaborating on twitter spaces and threads.
+* 🤝  I'm open to collaborating on twitter spaces.
 * ⚡  I am a foodie 🍻🥃
 
 <a href="https://www.twitter.com/arorachakit" target="_blank" rel="noreferrer"><img
