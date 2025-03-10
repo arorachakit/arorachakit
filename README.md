@@ -1,7 +1,7 @@
 Hi 👋 My name is Chakit
 =======================
 
-Developer Relations Engineer 🥑 @Storyblok
+Solutions Engineer @Storyblok
 ------------------------------------------
 
 Hey, I am a Full Stack Developer! I like being in the community. I like writing tech blogs, hosting tech spaces on Twitter, and building products!
