@@ -1,84 +1,92 @@
-Hi 👋 My name is Chakit
-=======================
+<h1 align="center">Chakit Arora</h1>
 
-Solutions Engineer @Storyblok
-------------------------------------------
+<p align="center"><strong>AI Engineer &amp; Content Creator</strong></p>
 
-Hey, I am a Full Stack Developer! I like being in the community. I like writing tech blogs, hosting tech spaces on Twitter, and building products!
-
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [chakitarora.com](http://chakitarora.com)
-* ✉️  You can contact me at [arorachakit@gmail.com](mailto:arorachakit@gmail.com)
-* 🧠  I'm learning web everyday!
-* 🤝  I'm open to collaborating on twitter spaces.
-* ⚡  I am a foodie 🍻🥃
-
-<a href="https://www.twitter.com/arorachakit" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/arorachakit?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
-/></a><a href="https://www.github.com/arorachakit" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/arorachakit?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
-
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>
-<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<p align="center">
+  I build at the intersection of AI, the web, and community —<br/>
+  shipping products, writing, and hosting conversations along the way.
 </p>
 
+<p align="center">
+  <a href="https://chakit.ai">chakit.ai</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:arorachakit@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/arorachakit">X</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/chakit-arora">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/chakit_arora">Instagram</a>
+  &nbsp;·&nbsp;
+  <a href="https://dev.to/arorachakit">Dev.to</a>
+</p>
 
-### Socials
+<br/>
 
-<p align="left"> <a href="https://www.dev.to/arorachakit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/arorachakit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://arorachakit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/chakit_arora" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/chakit-arora" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/arorachakit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+## About
 
-### Badges
+- 🌐 Building **[chakit.ai](https://chakit.ai)** — my home on the internet
+- 🤖 Working across **AI** and the modern **web**
+- ✍️ I write tech blogs and host tech Spaces on **X**
+- 🌍 Based in India, building in public
+- ⚡ Lifelong learner · unapologetic foodie
 
-<b>My GitHub Stats</b>
+<br/>
 
-<a href="http://www.github.com/arorachakit"><img src="https://github-readme-stats.vercel.app/api?username=arorachakit&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="arorachakit's GitHub stats" /></a>
+## Tech Stack
 
-<a href="http://www.github.com/arorachakit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arorachakit&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="center"><sub><b>LANGUAGES</b></sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+</p>
 
-<a href="http://www.github.com/arorachakit"><img src="https://activity-graph.herokuapp.com/graph?username=arorachakit&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<p align="center"><sub><b>FRONTEND</b></sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-0d1117?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Nuxt-0d1117?style=flat-square&logo=nuxtdotjs&logoColor=white" alt="Nuxt" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Redux-0d1117?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+</p>
 
-<a href="https://github.com/arorachakit" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arorachakit&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center"><sub><b>BACKEND</b></sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+</p>
 
+<p align="center"><sub><b>DATA &amp; CLOUD</b></sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
 
+<br/>
 
+## GitHub Stats
 
-<!--
-**arorachakit/arorachakit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arorachakit&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8&bg_color=0d1117" alt="Chakit's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arorachakit&layout=compact&langs_count=8&hide_border=true&title_color=38bdf8&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=arorachakit&hide_border=true&background=0d1117&stroke=21262d&ring=38bdf8&fire=38bdf8&currStreakNum=c9d1d9&currStreakLabel=38bdf8&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arorachakit&bg_color=0d1117&color=c9d1d9&line=38bdf8&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
+</p>
+
+<br/>
+
+<p align="center"><sub>Thanks for stopping by — more at <a href="https://chakit.ai">chakit.ai</a></sub></p>
