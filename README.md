@@ -1,6 +1,10 @@
 <h1 align="center">Chakit Arora</h1>
 
-<p align="center"><strong>AI Engineer &amp; Content Creator</strong></p>
+<p align="center">
+  <a href="https://chakit.ai">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=480&lines=AI+Engineer;Content+Creator;Builder+in+public" alt="AI Engineer · Content Creator · Builder in public" />
+  </a>
+</p>
 
 <p align="center">
   I build at the intersection of AI, the web, and community —<br/>
